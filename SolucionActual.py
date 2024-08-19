@@ -199,7 +199,7 @@ plt.title("Horas regulares y horas extra de producción por parte y máquina")
 plt.show()
 
 # Generar un grafico de barras con las horas de alistamiento de cada máquina para cada parte
-plt.figure(figsize=(10, 5))
+plt.figure(figsize=(40, 50))
 bottom_limit = [0 for j in J]
 partes_graficadas = []
 for i in I:
