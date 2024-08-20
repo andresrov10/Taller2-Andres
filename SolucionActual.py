@@ -217,5 +217,7 @@ plt.title("Horas de alistamiento por parte y máquina")
 plt.legend()
 plt.show()
 
+print("El tiempo se medira en horas")
+
 
 
